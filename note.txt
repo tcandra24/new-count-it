@@ -1,0 +1,18 @@
+Count IT
+
+Menu: 
+- Dashboard
+- Count
+- Categories
+- Report
+- About
+- Login / Register
+
+Dashboard: 
+- Grafik (Pengeluaran & Pemasukan) Per Tahun
+- Card Indicator (Pemasukan, Pengeluaran, Transaksi, Sisa)
+- Card Pengeluaran / Pemasukan:
+  - Table Perbulan
+  - Peringkat Top 5
+  - Statistik
+
